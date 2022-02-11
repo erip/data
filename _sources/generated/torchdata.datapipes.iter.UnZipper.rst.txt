@@ -3,7 +3,7 @@
 .. currentmodule:: torchdata.datapipes.iter
 
 
-IterDataPipe
-============
+UnZipper
+========
 
-.. autoclass:: IterDataPipe
+.. autoclass:: UnZipper
